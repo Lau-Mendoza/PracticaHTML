@@ -1,0 +1,25 @@
+header{
+  background: black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+body{
+  color: lightgrey;
+  font-family: 'Open Sans', sans-serif;
+  background: black;
+  text-align: center;
+}
+h1{
+  /*CAMBIO A LOS PARAMETROS QUE ME DICE LA FUENTE DE GOOGLE (300 - 400 - 700)*/
+  color: silver;
+}
+strong{
+  color:red;
+}
+header{
+  font-weight: bold
+}
+.estribillo{
+  font-style: italic;
+}
+
